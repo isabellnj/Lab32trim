@@ -1,0 +1,27 @@
+LAB3: 
+
+Ejercicio 1
+- Prepara el entorno según la metodología git-flow.
+- Aplica git a cada uno de los puntos siguientes de este trabajo.
+- Indica mediante tags a qué ejercicio corresponde el commit; p. ej., “ejercicio1”
+- Recuerda aplicar las buenas prácticas de git.
+
+
+Ejercicio 3
+- Ejecuta un contenedor de SQL Server 2019.
+- Conéctate a él a través de Azure Data studio o SSMS.
+
+
+XSVzmhHgzNQZhJV0oYDtn4cnoVieGZZ6whjJb8VI4p0=
+
+"SA_PASSWORD=Pa$$w0rdSQL"
+
+docker run -it --rm counter-image
+
+docker create --name core-counter counter-image
+docker run -d -p 5000:80 --name myapp my-asp-app
+ docker create --name core-counter counter-imagee
+ docker run -d -p 5000:80 --name core-counter counter-image
+ docker build -t counter-image -f Dockerfile .
+ docker run -it --rm -p 5002:80 --name aspnetcore_sample aspnetapp
+ docker run -it --rm -p 5000:80 --name aspnetcore_sample counter-imagee

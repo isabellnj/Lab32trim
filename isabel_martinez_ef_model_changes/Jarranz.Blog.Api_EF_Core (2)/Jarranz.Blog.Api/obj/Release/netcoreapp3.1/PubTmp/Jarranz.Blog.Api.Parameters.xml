@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="jarranz-blog-api2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\A8-PC100\\Downloads\\isabel_martinez_ef_model_changes\\Jarranz\.Blog\.Api_EF_Core\ \(2\)\\Jarranz\.Blog\.Api\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
