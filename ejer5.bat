@@ -1,0 +1,1 @@
+docker build -t counter-image -f Dockerfile .&docker create --name core-counter counter-image&docker ps –a&docker run d p 5002:80 –name corecounter3 counter-image
